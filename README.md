@@ -1,3 +1,3 @@
 # Final preoject in MLOPs course
 
-This is a conflicting line in the feature/data-ingestion branch.
+This is a line in the main branch.
